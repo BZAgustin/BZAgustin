@@ -21,7 +21,7 @@ I'm highly interested in transitioning from freelance development to a team-base
 - SASS
 - Tailwind<br>
 
-# My Projects 💼
+# My Latest Projects 💼
 
 ## Vinyl Vortex Records
 A fullstack application built with NodeJS + Express and Bootstrap. Browse through dozens of records, artists and genres, and add items to our database!<br>

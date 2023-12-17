@@ -32,7 +32,7 @@ Basic application to search for weather conditions on different parts of the wor
 Link: https://bzagustin.github.io/weather-app
 
 ## - Task Manager
-Simple app to organize tasks and bundle them into projects. Built to put OOP theory into practice and learn about built-in browser methods like `localStorage` to make task/project data persistent across multiple sessions.<br>
+Simple app to organize tasks and bundle them into projects. Built to solidify my understanding of OOP and learn about built-in browser methods like `localStorage` to make task/project data persistent across multiple sessions.<br>
 Link: https://bzagustin.github.io/task-manager/
 
 ## - Battleship

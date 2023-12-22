@@ -1,6 +1,6 @@
 # Introduction 👋
 
-Hi there! I'm Agustín, a front-end web developer with 2+ years of experience and a back-end knowledge foundation under my toolbelt.<br>
+Hi there! I'm Agustín, a fullstack web developer since 2020<br>
 
 # My Tools 🛠️
 - JavaScript
